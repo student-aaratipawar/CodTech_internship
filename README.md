@@ -12,3 +12,12 @@ A data analytics project that analyzes customer transaction data to identify fre
 
 Technologies Used
 Python, Pandas, MLxtend, Apriori Algorithm, Association Rule Mining, Data Analysis
+
+
+Task 3 - Customer Feedback Sentiment Analysis
+
+A data analytics and NLP project that analyzes customer feedback to identify customer opinions and classify reviews into positive, negative, and neutral sentiments. The project helps understand customer satisfaction and provides meaningful insights through sentiment analysis and data visualization.
+
+Technologies Used
+
+Python, Pandas, TextBlob, Matplotlib, Seaborn, Natural Language Processing (NLP), Sentiment Analysis, Data Analysis, Data Visualization
