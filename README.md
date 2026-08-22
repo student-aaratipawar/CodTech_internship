@@ -21,3 +21,11 @@ A data analytics and NLP project that analyzes customer feedback to identify cus
 Technologies Used
 
 Python, Pandas, TextBlob, Matplotlib, Seaborn, Natural Language Processing (NLP), Sentiment Analysis, Data Analysis, Data Visualization
+
+
+Task 4 - Weather Pattern Analysis
+
+A data analytics project that analyzes weather data to identify temperature, humidity, rainfall, and weather condition patterns. The project uses data analysis and visualization techniques to understand weather trends, compare daily conditions, and generate meaningful insights from the dataset.
+
+Technologies Used
+Python, Pandas, Matplotlib, Seaborn, Data Analysis, Data Visualization
